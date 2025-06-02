@@ -2,7 +2,7 @@
 This is a demo for developement
 
 # Teacher
-Sharaddha Khapra Maam
+Self
 
 # Student
 Danish
