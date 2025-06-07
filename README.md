@@ -6,6 +6,3 @@ Self
 
 # Student
 Danish
-
-# New Changes
-Aslam is hear
